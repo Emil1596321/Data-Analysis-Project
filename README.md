@@ -12,7 +12,7 @@ This project demonstrates data analysis, ETL processes, database creation, and v
   - `Project_Presentation.pptx`: Detailed PowerPoint explaining the project steps, assumptions, and results.
 
 - **Excel_Files/**  
-  - `Raw_Data.xlsx`: Original data source.
+  - `Region.csv`: Region data source.
   - `PowerQuery_Pivot.xlsx`: Excel workbook with Power Query transformations and pivot tables.
 
 - **SQL_Database/**  
